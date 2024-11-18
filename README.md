@@ -1,4 +1,4 @@
-<img width="100%" style="border-radius: 5px" src="https://cyfuture.cloud/frontImg/images/postgre-sql-banner.webp" alt="sql-banner-image" />
+<img width="100%" style="border-radius: 5px" src="https://i.ibb.co.com/FqSJDVL/sql-banner-image.png" alt="sql-banner-image" />
 
 # Learn SQL
 
