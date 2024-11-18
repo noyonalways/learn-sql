@@ -6,7 +6,7 @@ The `WHERE` clause is used to filter records.
 
 It is used to extract only those records that fulfill a specified condition.
 
-### Example
+**Example**
 
 Select all customers from Mexico:
 
@@ -41,7 +41,7 @@ WHERE CustomerID=1;
 
 You can use other operators than the `=` operator to filter the search.
 
-### Example
+**Example**
 
 Select all customers with a CustomerID greater than 80:
 

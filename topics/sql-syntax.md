@@ -8,7 +8,7 @@ SQL statements consist of keywords that are easy to understand.
 
 The following SQL statement returns all records from a table named "Customers":
 
-### Example
+**Example**
 
 Select all records from the Customers table:
 
@@ -33,7 +33,7 @@ The table above contains five records (one for each customer) and seven columns 
 
 ### Keep in Mind That...
 
-- SQL keywords are NOT case sensitive: `select` is the same as `SELECT`
+SQL keywords are NOT case sensitive: `select` is the same as `SELECT`
 
 In this tutorial we will write all SQL keywords in upper-case.
 

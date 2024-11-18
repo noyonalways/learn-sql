@@ -4,7 +4,7 @@
 
 The `SELECT DISTINCT` statement is used to return only distinct (different) values.
 
-### Example
+**Example**
 
 Select all the different countries from the "Customers" table:
 
@@ -16,7 +16,9 @@ Inside a table, a column often contains many duplicate values; and sometimes you
 
 ### Syntax
 
-`SELECT DISTINCT *column1*, *column2,* FROM *table_name*;`
+```sql
+SELECT DISTINCT column1, column2, FROM table_name;
+```
 
 ### Count Distinct
 
@@ -30,7 +32,7 @@ SELECT COUNT(DISTINCT Country) FROM Customers;
 
 Here is a workaround for MS Access:
 
-### Example
+**Example**
 
 ```sql
 SELECT Count(*) AS DistinctCountries
